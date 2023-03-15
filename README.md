@@ -15,7 +15,7 @@
 							<div class="align-items-center">
 								<div class="footer_social">
 									<center>
-                    <a target="_blank" href="http://avivyaniv.com/"><img src="img/social/site.png" height="70" ></a>
+                    <a target="_blank" href="https://avivyaniv.com/"><img src="img/social/site.png" height="70" ></a>
 										<a target="_blank" href="https://www.linkedin.com/in/avivyaniv/"><img src="img/social/linkedin.png" height="70" ></img></a>
 										<a target="_blank" href="https://medium.com/@AvivYaniv"><img src="img/social/medium.png" height="70" ></a>
 										<a target="_blank" href="https://stackoverflow.com/users/14148864/aviv-yaniv?tab=profile"><img src="img/social/stackoverflow.png" height="70" ></a>
