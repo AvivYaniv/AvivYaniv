@@ -1,7 +1,7 @@
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=AvivYaniv.AvivYaniv.issue.1) <br/>
 
 <h2>Hello, I am Aviv Yaniv</h2>
-							<h4 class="text-uppercase">Software Engineer 🖥️</h4>
+							<h4 class="text-uppercase">Senior Software Engineer 🖥️</h4>
 							<h4>Economist 📈 Beer Brewer 🍻 Photographer 📷 ~ “Curiosity is my drug”</h4>
 							<p>
 								<ul>
